@@ -137,7 +137,7 @@ Possible improvements include:
 ## 📌 Repository Structure
 
 ```bash
-├── Support_Ticket_Classification_Task2_Niharika.ipynb
+├── Support_Ticket_Classification.ipynb
 ├── customer_support_tickets.csv
 └── README.md
 ```
@@ -145,6 +145,6 @@ Possible improvements include:
 ---
 
 ## Author
-**Niharika Reddy**
+**Niharika Reddem**
 
 Machine Learning Internship Project – Future Interns (2026)
